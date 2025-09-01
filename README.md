@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![C](https://skillicons.dev/icons?i=c)
 <!--
 **0xRo1t/0xRo1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![C](https://skillicons.dev/icons?i=c)
+
