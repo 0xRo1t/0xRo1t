@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![C](https://skillicons.dev/icons?i=c)
+![C](https://skillicons.dev/icons?i=c) ![go](https://skillicons.dev/icons?i=go) ![python](https://skillicons.dev/icons?i=python) 
 <!--
 **0xRo1t/0xRo1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
