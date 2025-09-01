@@ -1,4 +1,11 @@
 ## Hi there 👋
+## skills
+1. Bypass Antivirus
+2. Penetration testing
+3. red team
+4. Lateral Movement
+5. Active Directory (AD)
+
 
 Languages:
 
