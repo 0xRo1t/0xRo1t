@@ -1,5 +1,5 @@
 ## Hi👋 
-I'm Ro1t
+I'm Ro1t  tg: @oooooqazr
 
 ## skills
 1. Bypass Antivirus
